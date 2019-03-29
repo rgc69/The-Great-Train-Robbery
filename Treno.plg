@@ -1,0 +1,97 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Steering - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Toor\IMPOST~1\Temp\RSP47.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GR /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/Treno.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\Toor\Desktop\Programmazione\AI\AI_Buckland\La Grande Rapina Al Treno\Proiettile_Leggero.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Toor\IMPOST~1\Temp\RSP47.tmp" 
+Creating temporary file "C:\DOCUME~1\Toor\IMPOST~1\Temp\RSP48.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Treno.pdb" /debug /machine:I386 /out:"Debug/Treno.exe" /pdbtype:sept 
+".\Debug\Arma_Leggera.obj"
+".\Debug\Armi.obj"
+".\Debug\AttackTargetGoal_Evaluator.obj"
+".\Debug\CrudeTimer.obj"
+".\Debug\DebugConsole.obj"
+".\Debug\EntitaBase.obj"
+".\Debug\EntityManager.obj"
+".\Debug\ExploreGoal_Evaluator.obj"
+".\Debug\FrameCounter.obj"
+".\Debug\FuzzyModule.obj"
+".\Debug\FuzzyOperators.obj"
+".\Debug\FuzzySet_LeftShoulder.obj"
+".\Debug\FuzzySet_RightShoulder.obj"
+".\Debug\FuzzySet_Singleton.obj"
+".\Debug\FuzzySet_Triangle.obj"
+".\Debug\FuzzyVariable.obj"
+".\Debug\GetHealthGoal_Evaluator.obj"
+".\Debug\GetWeaponGoal_Evaluator.obj"
+".\Debug\Goal_AdjustRange.obj"
+".\Debug\Goal_AttackTarget.obj"
+".\Debug\Goal_Explore.obj"
+".\Debug\Goal_FollowPath.obj"
+".\Debug\Goal_GetItem.obj"
+".\Debug\Goal_HuntTarget.obj"
+".\Debug\Goal_MoveToPosition.obj"
+".\Debug\Goal_SeekToPosition.obj"
+".\Debug\Goal_Think.obj"
+".\Debug\Goal_TraverseEdge.obj"
+".\Debug\Goal_Wander.obj"
+".\Debug\main.obj"
+".\Debug\MessageDispatcher.obj"
+".\Debug\MondoDiGioco.obj"
+".\Debug\PrecisionTimer.obj"
+".\Debug\Proiettile_Leggero.obj"
+".\Debug\Proiettili.obj"
+".\Debug\Projectile_Pellet.obj"
+".\Debug\Projectile_Rocket.obj"
+".\Debug\Projectile_Slug.obj"
+".\Debug\Raven_Feature.obj"
+".\Debug\Raven_Goal_Types.obj"
+".\Debug\Raven_Map.obj"
+".\Debug\Raven_PathPlanner.obj"
+".\Debug\Raven_Scriptor.obj"
+".\Debug\Raven_SensoryMemory.obj"
+".\Debug\Raven_SteeringBehaviors.obj"
+".\Debug\Raven_TargetingSystem.obj"
+".\Debug\Raven_UserOptions.obj"
+".\Debug\SistemaDiArma.obj"
+".\Debug\SistemaMovimento.obj"
+".\Debug\SpotIncidente.obj"
+".\Debug\Trigger_HealthGiver.obj"
+".\Debug\Trigger_SoundNotify.obj"
+".\Debug\Trigger_WeaponGiver.obj"
+".\Debug\Veicolo.obj"
+".\Debug\Weapon_Blaster.obj"
+".\Debug\Weapon_RailGun.obj"
+".\Debug\Weapon_RocketLauncher.obj"
+".\Debug\Weapon_ShotGun.obj"
+".\Debug\Cgdi.obj"
+".\Debug\iniFileLoaderBase.obj"
+".\Debug\Obstacle.obj"
+".\Debug\ParamLoader.obj"
+".\Debug\Path.obj"
+".\Debug\Vector2d.obj"
+".\Debug\WindowUtils.obj"
+".\Debug\Script1.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\Toor\IMPOST~1\Temp\RSP48.tmp"
+<h3>Output Window</h3>
+Compiling...
+Proiettile_Leggero.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Treno.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
